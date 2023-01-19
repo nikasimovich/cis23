@@ -1,0 +1,5 @@
+---
+title:            "Black Gooey Universe"
+author:           "American Artist"
+link:             "https://unbag.net/end/black-gooey-universe"
+---

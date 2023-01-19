@@ -1,0 +1,5 @@
+---
+title:            Typography and the Screen
+author:           Loretta Staples
+link:             https://ci.labud.nyc/assets/readings/staples-typography.pdf
+---

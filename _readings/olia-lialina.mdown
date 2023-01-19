@@ -1,0 +1,5 @@
+---
+title:            A Vernacular Web
+author:           Olia Lialina
+link:             http://art.teleportacia.org/observation/vernacular/
+---

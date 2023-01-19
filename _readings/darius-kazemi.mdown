@@ -1,0 +1,5 @@
+---
+title:            Run Your Own Social
+author:           Darius Kazemi
+link:             https://runyourown.social/
+---

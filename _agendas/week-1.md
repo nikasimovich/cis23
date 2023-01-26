@@ -11,7 +11,7 @@ summary:          Introductions, What is interaction design, What is the Interne
 
 ### Homework
 - [Today's Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-1-Class-2-Notes--BxcckcXJG2P3JZqwNMHVU~B5AQ-KgIpqAD9ZE0lzDlPZinqD)
-- Hear from Hiya and Vivian about A Vernacular Web](http://art.teleportacia.org/observation/vernacular/) and we [discuss.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--BxHeyWrniW2rJzD4_C7pN4teAQ-xcAaUIV4Syfp3zmAR7IMi)
+- Hear from Hiya and Vivian about [A Vernacular Web](http://art.teleportacia.org/observation/vernacular/) and we [discuss.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--BxHeyWrniW2rJzD4_C7pN4teAQ-xcAaUIV4Syfp3zmAR7IMi)
 - A few slides about the early internet and net artists
 - Narrative arcs
 - Storytelling activity

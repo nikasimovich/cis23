@@ -15,7 +15,6 @@ summary:          Introductions, What is interaction design, What is the Interne
 - A few slides about the early internet and net artists
 - Narrative arcs
 - Storytelling activity
-
 - HTML review
 
 ### Homework

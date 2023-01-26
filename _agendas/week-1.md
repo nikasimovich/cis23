@@ -20,6 +20,7 @@ summary:          Introductions, What is interaction design, What is the Interne
 
 ### Homework
 - Reading [The Cobweb, Can the Internet be Archived? — Jill Lepore](https://www.newyorker.com/magazine/2015/01/26/cobweb) and write a discussion comment or question on the shared [document.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--BxHeyWrniW2rJzD4_C7pN4teAQ-xcAaUIV4Syfp3zmAR7IMi)
+- Sara will be the discussion leader.
 - Complete the storytelling activity. Obtain a URL after lab class and submit it on Canvas.
 
 

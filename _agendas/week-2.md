@@ -2,7 +2,7 @@
 title:            Week 2
 start_date:       2023-01-30 00:00:00 -0500
 date_range:       1/30 –2/3
-summary:          Introductions, What is interaction design, What is the Internet, Local workspace, GitHub Desktop
+summary:          Internet Archive, Stories as Networks Intro, Design Ideas, Figma Intro, GitHub Desktop
 ---
 
 

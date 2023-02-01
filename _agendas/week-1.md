@@ -5,7 +5,6 @@ date_range:       1/23 –1/27
 summary:          Introductions, What is interaction design, What is the Internet, Local workspace, GitHub Desktop
 ---
 
-
 ### Thursday, Studio
 
 - [Today's Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-1-Class-2-Notes--BxcckcXJG2P3JZqwNMHVU~B5AQ-KgIpqAD9ZE0lzDlPZinqD)

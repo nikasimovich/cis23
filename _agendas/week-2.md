@@ -16,6 +16,6 @@ summary:          Internet Archive, Stories as Networks Intro, Design Ideas, Fig
 - Review storytelling activity in small groups. Submit it on Canvas after lab once you talk about GitHub Desktop.
 
 ### Homework
-- Due on Thursday: Reading [Typography and the Screen – Loretta Staples](https://ci.labud.nyc/assets/readings/staples-typography.pdf) and write a [discussion comment or question.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--BxHeyWrniW2rJzD4_C7pN4teAQ-xcAaUIV4Syfp3zmAR7IMi). Jia will be the reading presenter.
+- Due on Thursday: Reading [Typography and the Screen – Loretta Staples](https://ci.labud.nyc/assets/readings/staples-typography.pdf) and write a [discussion comment or question.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--BxHeyWrniW2rJzD4_C7pN4teAQ-xcAaUIV4Syfp3zmAR7IMi) Kuhu will be the reading presenter.
 - Due on Tuesday: select your reading for Stories as Networks and design three distinct design concepts for it. Each idea should include a title and a short description that explains the design inspiration and how it reflects the content, a wireframe of the site&rsquo;s structure, and a gestural homepage sketch that showcases the typography and primary interaction of the site.
 - Submit the storytelling activity. Obtain a URL after lab class and submit it on Canvas.

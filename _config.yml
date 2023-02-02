@@ -28,6 +28,7 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 # Site nav
 navigation:

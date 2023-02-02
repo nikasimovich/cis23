@@ -332,27 +332,33 @@ $reading-height: $reading-width / $reading-height-ratio;
 }
 
 ol.agenda-list,
-li.agenda {
+li.agenda,
+ol.workshop-list,
+li.workshop {
   padding-left: 0 !important;
 }
 
-li.agenda {
+li.agenda,
+li.workshop {
   margin-bottom: 0 !important;
 }
 
-.agenda__row {
+.agenda__row,
+.workshop__row {
   border-bottom: 1px solid $black;
   padding: 20px 0;
   display: block;
 }
 
-a.agenda__row {
+a.agenda__row,
+a.workshop__row {
   &:hover {
     background-color: $hover-accent-color;
   }
 }
 
-.agenda-page-row {
+.agenda-page-row,
+.workshop-page-row {
   margin-bottom: $line-height * 2;
 }
 

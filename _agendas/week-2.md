@@ -5,6 +5,33 @@ date_range:       1/30 – 2/3
 summary:          Internet Archive, Stories as Networks Intro, Design Ideas, Figma Intro, Digital type and interface evolution, GitHub Desktop
 ---
 
+### Friday, Lab
+
+🪩 Highlight:
+
+→ [Conditional Design](https://conditionaldesign.org/)
+
+<br />
+
+📝 Lecture: [Intro to CSS](https://core-interaction.github.io/lab/css/)
+
+→ A deeper dive into the various workings of Cascading Style Sheets.
+
+<br />
+
+💻 Demo: [Github Pages](https://www.dropbox.com/scl/fi/kyhmxtpxrn1g75ku7dft7/GitHub-Account-and-Github-Pages.paper?dl=0&rlkey=3ksfxn0zvuygrd6b25dprwr05)
+
+→ An introduction to a collaborative software platform.
+
+→ By the end of class, everyone should have their new Github Page set up. This will be the homepage for your Core 2 Interaction studio projects and lab assignments. Can everyone add their github.io urls to the table in [Github Pages](https://www.dropbox.com/scl/fi/kyhmxtpxrn1g75ku7dft7/GitHub-Account-and-Github-Pages.paper?dl=0&rlkey=3ksfxn0zvuygrd6b25dprwr05#:uid=962607739886937344400401&h2=Github-Pages:)?
+
+<br />
+
+📚 Assignment: TBD _will be posted Fri 4 @ 5:00pm_
+
+I'm still deciding how I want to structure this assignment since we didn't have time to go over it today. So in the meantime, if you want to dive deeper into how to use CSS, please review [Intro to CSS](https://core-interaction.github.io/lab/css/) to your heart's desire.
+
+---
 
 ### Thursday, Studio
 

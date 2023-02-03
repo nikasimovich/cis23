@@ -5,6 +5,40 @@ date_range:       1/23 –1/27
 summary:          Introductions, What is interaction design, What is the Internet, Local workspace, GitHub Desktop
 ---
 
+### Friday, Lab
+
+🪩 Highlights:
+
+→ [In Bb - a collaborative music/spoken word project](https://www.inbflat.net/)
+
+→ [Cat Hands - Jonny McLaughlin](https://codepen.io/jonny/pen/LRaVYZ)
+
+<br />
+
+📝 Lecture: [Intro to HTML](https://core-interaction.github.io/lab/html/)
+
+→ Tags required to render HTML page: `html`, `head`, `body`.
+
+→ Content tags: `h1-h6`, `p`, `em/strong`, `sub/sup`, `ol/ul`, `li`, `img`, `div`, `span`, etc...
+
+→ An introduction to [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+
+<br />
+
+💻 Demo: [Glitch.me](https://glitch.com/@ikedaiyk/core-2-interaction-lab)
+
+→ An introduction to a collaborative web development platform, where you can "remix" projects.
+
+<br />
+
+📚 Assignment: [Questionnaire](https://glitch.com/edit/#!/ci2023secc--01-questionnaire)
+
+→ Remix the Questionnaire Glitch Project and answer to the best of your abilities.
+
+→ **Due: Friday 3**
+
+---
+
 ### Thursday, Studio
 
 - [Today's Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-1-Class-2-Notes--BxcckcXJG2P3JZqwNMHVU~B5AQ-KgIpqAD9ZE0lzDlPZinqD)

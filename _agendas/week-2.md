@@ -27,7 +27,7 @@ summary:          Internet Archive, Stories as Networks Intro, Design Ideas, Fig
 
 <br />
 
-📚 Assignment: [Reverse Engineer HTML/CSS Structure](https://www.dropbox.com/scl/fi/94gog7vlq902fpb6xzclg/Week-2-Assignment_-Reverse-Engineer-HTML-Structure-and-CSS.paper?dl=0&rlkey=sw8v9qojeb8om4ouon0x0jnvk)
+📚 Assignment: [Reverse Engineer HTML/CSS Structure](https://www.dropbox.com/scl/fi/94gog7vlq902fpb6xzclg/Week-2-Assignment_-Reverse-Engineer-HTML-Structure-and-CSS.paper?dl=0&rlkey=mkc69xl6kwruc92nfcxexpjrz)
 
 → This assignment is less about what you already know and more about what you can learn about as you go.
 

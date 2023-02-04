@@ -13,7 +13,7 @@ summary:          Internet Archive, Stories as Networks Intro, Design Ideas, Fig
 
 <br />
 
-📝 Lecture: [Intro to CSS](https://core-interaction.github.io/lab/css/)
+📝❌ Lecture: [Intro to CSS](https://core-interaction.github.io/lab/css/)
 
 → A deeper dive into the various workings of Cascading Style Sheets.
 
@@ -27,9 +27,13 @@ summary:          Internet Archive, Stories as Networks Intro, Design Ideas, Fig
 
 <br />
 
-📚 Assignment: TBD _will be posted Fri 4 @ 5:00pm_
+📚 Assignment: [Reverse Engineer HTML/CSS Structure](https://www.dropbox.com/scl/fi/94gog7vlq902fpb6xzclg/Week-2-Assignment-Reverse-Engineering-HTML-Structure-and-CSS.paper?dl=0&rlkey=mkc69xl6kwruc92nfcxexpjrz_)
 
-I'm still deciding how I want to structure this assignment since we didn't have time to go over it today. So in the meantime, if you want to dive deeper into how to use CSS, please review [Intro to CSS](https://core-interaction.github.io/lab/css/) to your heart's desire.
+→ This assignment is less about what you already know and more about what you can learn about as you go.
+
+→ For reference, [Intro to HTML](https://core-interaction.github.io/lab/html/), [Intro to CSS](https://core-interaction.github.io/lab/css/)
+
+→ **Due: Friday 10**
 
 ---
 

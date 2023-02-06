@@ -40,7 +40,7 @@ summary:          Internet Archive, Stories as Networks Intro, Design Ideas, Fig
 ### Thursday, Studio
 
 - [Today's Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-2-Class-2-Notes--Bx7imaE4O9CTWGBjumfOrvlrAQ-V5OVCkeD0xCevfmIhHzjd)
-- Hear from Kuhu about [Typography and the Screen – Loretta Staples]https://ci.labud.nyc/assets/readings/staples-typography.pdf) and we [discuss.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--BxHeyWrniW2rJzD4_C7pN4teAQ-xcAaUIV4Syfp3zmAR7IMi)
+- Hear from Kuhu about [Typography and the Screen – Loretta Staples](https://ci.labud.nyc/assets/readings/staples-typography.pdf) and we [discuss.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--BxHeyWrniW2rJzD4_C7pN4teAQ-xcAaUIV4Syfp3zmAR7IMi)
 - A few slides about digital type and interface evolution
 - Concept presentations
 - Figma demo

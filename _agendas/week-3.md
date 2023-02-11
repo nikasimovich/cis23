@@ -29,6 +29,8 @@ summary:          Figma continuation, International Language Support, Web typogr
 
 → Review how to add typo to a webpage.
 
+<br />
+
 📚 Assignment: [Recreate an Event Poster](https://www.dropbox.com/scl/fi/pr31kbwk14nakp6hyc0fs/Week-3-Assignment-Recreate-an-Event-Poster..paper?dl=0&rlkey=vd3lwxu8elaugi54xfu4nsged)
 
 → Recreate an event poster to practice the use of CSS positioning properties. Please upload your assignment to github when you're down and add you url to the [group list](https://www.dropbox.com/scl/fi/pr31kbwk14nakp6hyc0fs/Untitled-1.paper?dl=0&rlkey=vd3lwxu8elaugi54xfu4nsged#:uid=066960994232906141883216&h2=Assignment-3:-Recreate-Event-P).

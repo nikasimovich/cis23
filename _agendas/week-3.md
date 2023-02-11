@@ -35,6 +35,10 @@ summary:          Figma continuation, International Language Support, Web typogr
 
 → **Due: Friday 17**
 
+
+---
+
+
 ### Thursday, Studio
 
 - [Today's Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-3-Class-2-Notes--ByXcmmu7_eLVjuGoMUHmhMjhAQ-PXgWPRgjn1uHpmQRFG7vM)

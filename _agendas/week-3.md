@@ -21,13 +21,19 @@ summary:          Figma continuation, International Language Support, Web typogr
 
 → Review and deeper dive into the box model and positioning.
 
-📝 Lecture: [Type Demo](http://arts21.labud.nyc/assets/demos/type-demo/index.html)
-
-→ Review how to add typo to a webpage.
-
 <br />
 
 💻 Demo: [Recreate a Poster](https://www.dropbox.com/scl/fi/5xthhmd4mh2b04izxm7w1/Week-3-Reviewing-CSS-Positioning-and-Web-Typography.paper?dl=0&rlkey=kyz8eqp5jt4xl5pmslrytnuld)
+
+💻 Demo: [Type Demo](http://arts21.labud.nyc/assets/demos/type-demo/index.html)
+
+→ Review how to add typo to a webpage.
+
+📚 Assignment: [Recreate an Event Poster](https://www.dropbox.com/scl/fi/pr31kbwk14nakp6hyc0fs/Week-3-Assignment-Recreate-an-Event-Poster..paper?dl=0&rlkey=vd3lwxu8elaugi54xfu4nsged)
+
+→ Recreate an event poster to practice the use of CSS positioning properties. Please upload your assignment to github when you're down and add you url to the [group list](https://www.dropbox.com/scl/fi/pr31kbwk14nakp6hyc0fs/Untitled-1.paper?dl=0&rlkey=vd3lwxu8elaugi54xfu4nsged#:uid=066960994232906141883216&h2=Assignment-3:-Recreate-Event-P).
+
+→ **Due: Friday 17**
 
 ### Thursday, Studio
 

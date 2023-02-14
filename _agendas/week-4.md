@@ -1,7 +1,7 @@
 ---
-title:            Week 3
+title:            Week 4
 start_date:       2023-01-30 00:00:00 -0500
-date_range:       2/6 – 2/10
+date_range:       2/13 – 2/17
 summary:          Stories as Networks project development
 ---
 

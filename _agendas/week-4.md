@@ -1,8 +1,19 @@
 ---
-title:            Week 3
+title:            Week 4
 start_date:       2023-01-30 00:00:00 -0500
-date_range:       2/6 – 2/10
+date_range:       2/13 – 2/17
 summary:          Stories as Networks project development
+---
+
+### Thursday, Studio
+
+- [Today's Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-4-Class-2-Notes--ByxRyQZE245O4VuwQujstPb3AQ-pNC2EiXBLvtUxUHxO2xsK)
+- Frank Chimero activity
+- Stories as Networks work day
+
+### Homework
+- Finish your project. It should be online and ready to go at the start of class on Tuesday.
+
 ---
 
 ### Tuesday, Studio

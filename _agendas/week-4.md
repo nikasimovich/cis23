@@ -15,6 +15,8 @@ summary:          Stories as Networks project development
 
 → [Cashmere Radio](https://cashmereradio.com/listen/)
 
+→ [7x7.la](http://7x7.la/)
+
 <br />
 
 💬 1:1 Lab Sessions for **Stories as Networks** Studio Project

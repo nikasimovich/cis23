@@ -11,6 +11,10 @@ summary:          Stories as Networks critique
 
 → [Borealis Festival](https://www.borealisfestival.no/)
 
+→ [Kickstarter](https://www.kickstarter.com/)
+
+→ [New York Times](https://www.nytimes.com/)
+
 <br />
 
 📝 Lecture:

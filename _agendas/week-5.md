@@ -27,7 +27,7 @@ summary:          Stories as Networks critique
 
 <br />
 
-📚 Assignment: TBD
+📚 Assignment: No assignment this week!
 
 <br />
 

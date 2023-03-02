@@ -5,6 +5,17 @@ date_range:       2/28 – 3/2
 summary:          Introduce Elastic Collection
 ---
 
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-6-Class-2-Notes--Bzpe9fbcUEoMmAUPqtvXuRXwAQ-JP91aBmC87Dro7wmTf4Vd)
+- Stories as Networks code review
+- Small group meetings
+
+### Homework
+- Pick one of your ideas and begin your collecting process. House everything in a google sheet. The full collection is due in a week from today.
+
+---
+
 ### Tuesday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-6-Class-1-Notes--Bzi7q6zKmXvwg2M8ZUCgtWCEAQ-XwLxEsy3b78szfjzOoXUB)

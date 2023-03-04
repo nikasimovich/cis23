@@ -5,6 +5,34 @@ date_range:       2/28 – 3/2
 summary:          Introduce Elastic Collection
 ---
 
+🪩 Highlights:
+
+**Programming & Literature**
+
+→ Oulipo and the _conditional_ in [Story As You Like It](https://www.zachhorton.com/mmr/files/Queneau_Raymond._A_Story_As_You_Like_It._OuLiPo--a_Primer_of_Potential_Literature._156-158.pdf)
+
+→ Oulipo and _variables_ in [N+7 Technique](https://poets.org/text/brief-guide-oulipo)
+
+→ Gertrude Stein and _loops_ in [Rose is a rose is a rose is a rose](https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose)
+
+<br />
+
+📝 Lecture:
+
+→ [MDN Javascript Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+
+→ [MDN Javascript Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+
+_We've covered: variables, data types: string, integer, booleans, arrays... and briefly, conditionals. Next week, we'll cover loops and functions._
+
+<br />
+
+📚 Assignment:
+
+→ [Week 6: OuLiPo variables](https://www.dropbox.com/scl/fi/b4x5ywyuoqh0lnnob1cv2/Week-6-Assignment-OuLiPo-variables.paper?dl=0&rlkey=wh20p5mkoym5ataovudw7vhsm)
+
+<br />
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-6-Class-2-Notes--Bzpe9fbcUEoMmAUPqtvXuRXwAQ-JP91aBmC87Dro7wmTf4Vd)

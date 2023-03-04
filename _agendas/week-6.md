@@ -31,7 +31,7 @@ _We've covered: variables, data types: string, integer, booleans, arrays... and 
 
 → [Week 6: OuLiPo variables](https://www.dropbox.com/scl/fi/b4x5ywyuoqh0lnnob1cv2/Week-6-Assignment-OuLiPo-variables.paper?dl=0&rlkey=wh20p5mkoym5ataovudw7vhsm)
 
-<br />
+---
 
 ### Thursday, Studio
 

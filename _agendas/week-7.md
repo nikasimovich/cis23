@@ -27,11 +27,7 @@ summary:          Positioning, Collections, JS Conditionals, JS Loop
 
 → [Javascript Loops: Exercises](https://www.dropbox.com/scl/fi/u00jd8njervlxfrmqngvd/Week-7b-Loops.paper?dl=0&rlkey=rgdph4eqma4aoc85kb0f2r5rn)
 
-<br />
-
-📚 Assignment:
-
-→ TBD
+---
 
 ### Thursday, Studio
 

@@ -5,6 +5,22 @@ date_range:       3/20 – 3/24
 summary:          Project development
 ---
 
+### Friday, Lab
+
+🌴 Welcome back from Spring Break! 🏖️
+
+<br />
+
+📝 Lecture:
+
+→ [Arrays](https://www.dropbox.com/scl/fi/vz4z31arorfkpdzfv6r35/Week-8a-Arrays.paper?dl=0&rlkey=ci1hxcq3zbveixltq3rqobtv2)
+
+→ [Objects and JSON](https://www.dropbox.com/scl/fi/kalhmfxu6c5t4uyhyrm71/Week-8b-Objects-and-JSON-Javascript-Object-Notation.paper?dl=0&rlkey=hnnkp40uk7mnvy4cbr0pm75vc)
+
+_Later in this lab, we're going to scaffold our Project 2: Elastic Collections project. Then, there will be 1:1 sessions for any questions about your individual datasets._
+
+---
+
 ### Thursday, Studio
 
 - Midterm check ins

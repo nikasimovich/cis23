@@ -5,11 +5,26 @@ date_range:       3/27 – 3/31
 summary:          Project development, JavaScript Object review
 ---
 
-### Tuesday, Studio
+### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-8-Class-1-Notes--B03w6WbEzBsEKyWJWYqLkfBcAQ-IeOGECSNX8SJq4McQ9q7E)
+- Continue where we left off on Tuesday
 - Project check in
+
+
+### Homework
+- Complete the display data activity (If we start it in class)
+- Continue working on your project. The project is due on Thursday April 6.
+
+---
+
+
+
+### Tuesday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-9-Class-1-Notes--B1URUzCorrFPS~v3K69MsF0sAQ-5SPJBsXqneGtUelKyWB6W)
+
 
 ### Homework
 - Complete the display data activity
-- Continue working on your project. The project is due on Thursday April 6.
+- Continue working on your project, it is due a week from Thursday

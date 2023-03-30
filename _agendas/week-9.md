@@ -7,7 +7,7 @@ summary:          Project development, JavaScript Object review
 
 ### Thursday, Studio
 
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-8-Class-1-Notes--B03w6WbEzBsEKyWJWYqLkfBcAQ-IeOGECSNX8SJq4McQ9q7E)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-9-Class-1-Notes--B1URUzCorrFPS~v3K69MsF0sAQ-5SPJBsXqneGtUelKyWB6W)
 - Continue where we left off on Tuesday
 - Project check in
 

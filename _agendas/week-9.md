@@ -5,6 +5,20 @@ date_range:       3/27 – 3/31
 summary:          Project development, JavaScript Object review
 ---
 
+### Friday, Lab
+
+💬 1:1 Lab Sessions for **Elastic Collection** Studio Project
+
+<br />
+
+💻 Demo: [Querying and Manipulatig DOM](https://codepen.io/ikedaiyk/pen/poOGyQm)
+
+💻 Demo: [Using a range input element](https://codepen.io/ikedaiyk/pen/poOGjqE)
+
+💻 Demo: [Using a checkbox input element](https://codepen.io/ikedaiyk/pen/ZEMNMzE)
+
+---
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-8-Class-1-Notes--B03w6WbEzBsEKyWJWYqLkfBcAQ-IeOGECSNX8SJq4McQ9q7E)

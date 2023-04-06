@@ -9,7 +9,6 @@ index:            3
 - To reinterpret external sources of data into narrative experiences
 - To develop an editorial perspective to content that is not your own
 - To develop a working relationship with external content and code
-- To connect and use structured content from an API (Application Programming Interface) 
 
 
 ### Introduction

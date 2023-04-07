@@ -2,7 +2,39 @@
 title:            Week 10
 start_date:       2023-04-01 00:00:00 -0500
 date_range:       4/3 – 4/7
-summary:          Project development, Elastic Collection Critique
+summary:          Project development, Elastic Collection Critique, JS Functions
+---
+
+### Friday, Lab
+
+🪩 Highlights:
+
+[Forensic Architecture](https://forensic-architecture.org/)
+
+[New York Times: 2022 Year in Graphics](https://www.nytimes.com/interactive/2022/12/28/us/2022-year-in-graphics.html)
+
+<br />
+
+🌱 Spring Cleaning 🌷
+
+_Let's take a moment to organize our files..._
+
+<br />
+
+📝 Lecture + In-class exercises:
+
+→ [Functions](https://www.dropbox.com/scl/fi/mlkzo7djva1cbzzbep5ze/Week-10-Javascript-Functions.paper?dl=0&rlkey=mcow5oer4544uds4mwt1a5opi)
+
+<br />
+
+🏆 Interactives
+
+→ [Flexbox Froggy](https://flexboxfroggy.com/)
+
+→ [Grid Garden](https://cssgridgarden.com/)
+
+_I noticed that some of you are still a little uncomfortable with designing layouts. Try these interactive puzzles to reinforce some flexbox and grid concepts, for use in your next project (or revisit an old project)._
+
 ---
 
 ### Thursday, Studio

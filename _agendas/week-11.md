@@ -8,7 +8,7 @@ summary:          Data Visualizations, Introduce NYC in Data
 
 ### Thursday, Studio
 
-- Hear from Uvi and Xinyi about Data Feminism and we discuss
+- Hear from Avi and Xinyi about Data Feminism and we discuss
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-11-Class-2--B2WX~XxGnH2Bc6pf2LDc3V~OAQ-7DEw6ujsXGdRey85kfxVj)
 - Look at examples of data visualizations
 - NYC Open Data activity

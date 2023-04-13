@@ -6,6 +6,20 @@ summary:          Data Visualizations, Introduce NYC in Data
 
 ---
 
+### Thursday, Studio
+
+- Hear from Uvi and Xinyi about Data Feminism and we discuss
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-11-Class-2--B2WX~XxGnH2Bc6pf2LDc3V~OAQ-7DEw6ujsXGdRey85kfxVj)
+- Look at examples of data visualizations
+- NYC Open Data activity
+
+
+### Homework
+- Reading: [The Adventures of an Avatar and Her Real Girl – Helen Gregory](https://cis23.labud.nyc/assets/readings/adventures-avatar-real-girl.pdf) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--B2JqDKxq4aJ1a5zMCecip_q1AQ-xcAaUIV4Syfp3zmAR7IMi). Ray and Jiyeon are our discussion leaders.  
+- Look through the available data sets on [NYC Open Data](https://opendata.cityofnewyork.us/), identify one data set that you would like to work with. Look through the data like we did in class with the New York City data today and identify three possible stories you would like to focus on. Communicate which data points you can use. Also, find a journalistic story that utilizes your data set. This can be housed in a google doc, Figma board, Dropbox Paper, or google slides.
+
+
+---
 
 ### Tuesday, Studio
 

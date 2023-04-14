@@ -9,8 +9,6 @@ summary:          Project development, Elastic Collection Critique, JS Functions
 
 🪩 Highlights:
 
-[Forensic Architecture](https://forensic-architecture.org/)
-
 [New York Times: 2022 Year in Graphics](https://www.nytimes.com/interactive/2022/12/28/us/2022-year-in-graphics.html)
 
 <br />

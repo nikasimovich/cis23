@@ -2,7 +2,25 @@
 title:            Week 11
 start_date:       2023-04-01 00:00:00 -0500
 date_range:       4/10 – 4/14
-summary:          Data Visualizations, Introduce NYC in Data
+summary:          Data Visualizations, Introduce NYC in Data, APIs
+
+---
+
+### Friday, Lab
+
+🪩 Highlights:
+
+[Forensic Architecture](https://forensic-architecture.org/)
+
+[Ben Fry](https://slate.com/technology/2011/08/ben-fry-s-information-design-work.html), and [_The process behind "Tracing the Origin"_](https://medium.com/@ben_fry/tracing-the-origin-65011dc20877)
+
+[Ed Tufte](https://www.edwardtufte.com/tufte)
+
+<br />
+
+📝 Lecture + In-class exercises:
+
+→ [APIs and NYC Open Data](https://www.dropbox.com/scl/fi/q2n2zq93jjqx12wsgegoq/Week-11-APIs-Registering-for-NYC-Data.paper?dl=0&rlkey=u3h1h2ccs7hmisluq1o2oz8nn)
 
 ---
 

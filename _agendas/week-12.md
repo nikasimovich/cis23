@@ -6,6 +6,17 @@ summary:          NYC in Data continuation
 
 ---
 
+### Thursday, Studio
+
+- Hear from Jung about the reading and we discuss
+- [Today&rsquo;s Notes (continue where we left off on Tuesday)](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-12-Class-1--B2sT9xeB1dYBZuJx6PvohsTFAg-zls9YEkbpC9Fbb2xC5J5L#:uid=439614484998447196457403&h2=Review-Data-Selections)
+- Review project progress
+
+
+### Homework
+- Reading: [The Hidden Life of an Amazon User – Joana Moll](https://branch.climateaction.tech/issues/issue-1/the-hidden-life-of-an-amazon-user/) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--B2JqDKxq4aJ1a5zMCecip_q1AQ-xcAaUIV4Syfp3zmAR7IMi). Serena will be our discussion leader.
+- Make progress on your project — pick one idea to continue fleshing out in Figma and experimenting with the data points
+
 ### Tuesday, Studio
 
 - Hear from Ray and Jiyeon about [The Adventures of an Avatar and Her Real Girl – Helen Gregory](https://cis23.labud.nyc/assets/readings/adventures-avatar-real-girl.pdf) and we [discuss](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Reading-Reflections--B2JqDKxq4aJ1a5zMCecip_q1AQ-xcAaUIV4Syfp3zmAR7IMi)

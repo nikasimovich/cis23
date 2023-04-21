@@ -6,6 +6,28 @@ summary:          NYC in Data continuation
 
 ---
 
+### Friday, Lab
+
+🪩 Highlights:
+
+[Pudding.cool](https://pudding.cool/)
+
+[We Feel Fine](https://jjh.org/we-feel-fine), and other [Data Poetics](https://jjh.org/works/data-poetics) by Jonathan Harris.
+
+[Feltron](http://feltron.com/)
+
+[Sandra Rendgen's Blog on Infographics](https://sandrarendgen.wordpress.com/)
+
+<br />
+
+📝 Lecture & Demos
+
+→ [Advanced CSS: Transition](https://core-interaction.github.io/lab/advanced-css/)
+
+→ [In-class Q&A](https://www.dropbox.com/scl/fi/y2son79ahyl6htqsz09lj/Week-12-QA-Project-3-Ideas.paper?dl=0&rlkey=aj01kyfnvz7ei14yk638lnwjj)
+
+---
+
 ### Thursday, Studio
 
 - Hear from Jung about the reading and we discuss

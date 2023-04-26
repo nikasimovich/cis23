@@ -6,6 +6,17 @@ summary:          NYC in Data continuation
 
 ---
 
+### Thursday, Studio
+
+- Hear from Dev about the reading and we discuss
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S23-Week-13-Class-2--B3L7UFHB0VGffEpaKNB4kBG2AQ-C3RCNFigYcojmVRJmW5rl)
+- Class discussions, Sophomore work collection, work on final project
+
+
+### Homework
+- Continue work on your project. Finalize your design in Figma and begin working in code
+
+
 ### Tuesday, Studio
 
 - Hear from Serena about the Hidden Life of an Amazon User and we discuss

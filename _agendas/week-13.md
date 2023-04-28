@@ -6,6 +6,14 @@ summary:          NYC in Data continuation
 
 ---
 
+### Friday, Lab
+
+💬 1:1 Lab Sessions for **NYC In Data** Studio Project
+
+→ Drop any questions here asynchronously, if we didn't get a chance to discuss in class: 🌱 [Week 13: NYC In Data Questions](https://www.dropbox.com/scl/fi/e1fs7d0fj3j9w98c17jxr/Week-13-NYC-In-Data-Questions.paper?dl=0&rlkey=jk85t6gwh195c0ujjo6nxfli2) 🌻
+
+---
+
 ### Thursday, Studio
 
 - Hear from Dev about the reading and we discuss

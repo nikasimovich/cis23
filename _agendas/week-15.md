@@ -6,6 +6,13 @@ summary:          Wrapping up
 
 ---
 
+### Friday, Lab
+
+🏁 [Skills Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfvQODsojNE_6yT1nuhx3EXhDg7nSuB2YvOsaj3daTT_XAGoQ/viewform?usp=sf_link)
+
+→ Happy many 🌞 days!!
+
+---
 
 ### Thursday, Studio
 
